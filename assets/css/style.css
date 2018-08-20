@@ -1,7 +1,9 @@
-.success, error {
+.success, .error {
     color: white;
+    font-weight: 600;
     padding: 5px;
     margin: 5px 0 15px 0;
+    text-align: center;
 }
 
 .success {
